@@ -1,0 +1,4 @@
+user_name;realname;email;password;access_level;enabled;protected
+user_1;Denis;1@mail.ru;abc;40;true;false
+user_3;Anna;3@mail.ru;321;40;true;false
+user_4;Denis;4@mail.ru;abc;90;true;false
